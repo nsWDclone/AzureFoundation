@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/nsWD0528/7a2abcad-2e11-4ed1-af8d-39ac16256765/9c54343e-3e1e-482c-b8c7-efe9ba0de2cf/_apis/work/boardbadge/b2d4fa46-8df0-4bd7-837a-1886a7c392af)](https://dev.azure.com/nsWD0528/7a2abcad-2e11-4ed1-af8d-39ac16256765/_boards/board/t/9c54343e-3e1e-482c-b8c7-efe9ba0de2cf/Microsoft.RequirementCategory)
 # AzureFoundation
 The patterns for a foundational implementation of Azure Foundation.
 
